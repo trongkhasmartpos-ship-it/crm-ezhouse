@@ -1,0 +1,13 @@
+{
+  "name": "CRM - EZHOUSE",
+  "short_name": "EZHOUSE",
+  "description": "CRM quản lý phòng trọ, khách hàng và chat nội bộ",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f3f7f4",
+  "theme_color": "#168a52",
+  "icons": [
+    {"src":"/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
